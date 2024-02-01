@@ -1,6 +1,6 @@
-# WarCrime---fear-predictor -A Data-Driven Exploration of Terrorism, Economy, and Fear Perception
+# WarCrime---fear-predictor -A Data-Driven Exploration of Terrorism, Economy, and Fear Perception using LDA and Bayesian Models
 
-This repository hosts the data analysis project titled "Echoes of fear" an explorative journey into the complex interplay between terrorism, economic factors, and the resulting public perception of fear. Utilizing advanced statistical models, this project seeks to quantify the shadowy influence of terrorism on the collective human psyche across different economic landscapes.
+This repository hosts the data analysis project titled "Echoes of fear" an explorative journey into the complex interplay between terrorism, economic factors, and the resulting public perception of fear. Utilizing advanced statistical models - Latent Dirichlet Allocation (LDA) and Bayesian Models of Parameter Estimation , this project seeks to quantify the shadowy influence of terrorism on the collective human psyche across different economic landscapes.
 
 
 Repository Contents
